@@ -10,7 +10,7 @@ For vector data with ten million numbers of points, lines or polygons, it is dif
 
 Vtserver can publish these data into vector tiles on fly for clients such as browser, and No pre-tiling is required. 
 
-Vtserver can be deployed on tomcat.
+Vtserver can be deployed on docker.
 
 
 
